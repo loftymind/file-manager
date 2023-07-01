@@ -1,3 +1,5 @@
+# file-manager
+1
 
 
 ## Start project
@@ -60,24 +62,13 @@
 
 ## hash
 
-     hash C:\Users\Adimn\test.txt
-> f22119484f2c0896693b24db3e9e52febf66d76abe330ffb4ba54b6dbdc9a9d8
-
-     hash C:\Users\Adimn\tesfdsfdsst.txt
-> Operation failed
+     hash D:\test.txt
 
 ## compress
 
-    compress test.txt Documents
-> File test.txt compressed into C:\Users\Adimn\Documents\text.txt`
+    compress test.txt D:/
 
-    compress tesfffsfsst.txt Documents
-> Operation failed
 
 ## decompress
 
-    decompress test.txt.br Documents
-> File test.txt decompressed into C:\Users\Adimn\Documents\text.txt`
-
-    decompress tesfffsfsst.txt Documents
-> Operation failed
+    decompress test.txt.br D:/
